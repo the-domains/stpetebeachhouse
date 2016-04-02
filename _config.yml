@@ -1,0 +1,28 @@
+name: stpetebeachhouse
+favicon: null
+layout_spectrum: 0.04915438499301672
+typography_spectrum: 0.2610531970858574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6974847321398556
+  lightness: 0.6226513404399157
+  saturation: 0.57403440377675
+  rhythmicContrast: 0.7588644966017455
+purpose: []
