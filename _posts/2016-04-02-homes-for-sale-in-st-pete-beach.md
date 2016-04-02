@@ -17,8 +17,8 @@ keywords:
   - pasadena
   - mainland
 description: 'The City of St. Pete Beach is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. '
-datePublished: '2016-04-02T16:38:57.874Z'
-dateModified: '2016-04-02T16:38:32.258Z'
+datePublished: '2016-04-02T16:44:22.646Z'
+dateModified: '2016-04-02T16:44:17.205Z'
 author: []
 related: []
 app_links: []
