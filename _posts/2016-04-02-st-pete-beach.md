@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.keithburt.com'
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-04-02T14:31:53.488Z'
-dateModified: '2016-04-02T14:14:49.103Z'
+description: Contact Keith Burt
+datePublished: '2016-04-02T14:45:45.835Z'
+dateModified: '2016-04-02T14:32:36.243Z'
 title: 'Are you looking for your dream home in St Pete Beach!!'
 author: []
 sourcePath: _posts/2016-04-02-st-pete-beach.md
