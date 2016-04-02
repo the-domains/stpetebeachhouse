@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Visit St. Pete Clearwater
-    url: 'https://www.youtube.com/user/stpetecvb'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=y1--FgAUmUU'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - sunset
@@ -21,7 +17,13 @@ keywords:
   - beautiful
   - amazing
 description: "There aren't many places in the world where you can awaken with a sunrise over the water and catch the sun set over water. In St. Petersburg/Clearwater, you can do just that. Sit back and enjoy."
-inLanguage: en
+datePublished: '2016-04-02T15:35:34.270Z'
+dateModified: '2016-04-02T15:35:28.062Z'
+author:
+  - name: Visit St. Pete Clearwater
+    url: 'https://www.youtube.com/user/stpetecvb'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=y1--FgAUmUU&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=y1--FgAUmUU'
 title: 'Catch Sunrise & Sunset in St. Petersburg/Clearwater'
-datePublished: '2016-04-02T14:31:10.915Z'
-dateModified: '2016-04-02T14:30:43.117Z'
 sourcePath: _posts/2016-04-02-catch-sunrise-and-sunset-in-st-petersburgclearwater.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
