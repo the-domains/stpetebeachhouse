@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Visit St. Pete Clearwater
-    url: 'https://www.youtube.com/user/stpetecvb'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=68WsZ95_RTk'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - clearwater
@@ -21,7 +17,13 @@ keywords:
   - best
   - vacation
 description: "With 35 miles of beaches, St. Pete/Clearwater has plenty of beach bars to kick back and enjoy a drink and sunset. Here's a look at our top picks along Florida's Gulf Coast, including Shephard's Beach Resort."
-inLanguage: en
+datePublished: '2016-04-02T15:55:19.422Z'
+dateModified: '2016-04-02T15:55:14.100Z'
+author:
+  - name: Visit St. Pete Clearwater
+    url: 'https://www.youtube.com/user/stpetecvb'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=68WsZ95_RTk&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=68WsZ95_RTk'
 title: Best Beach Bars in St. Pete/Clearwater
-datePublished: '2016-04-02T13:23:25.559Z'
-dateModified: '2016-04-02T13:15:34.138Z'
 sourcePath: _posts/2016-04-02-best-beach-bars-in-st-peteclearwater.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
