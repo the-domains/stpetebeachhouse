@@ -17,8 +17,8 @@ keywords:
   - best
   - vacation
 description: "With 35 miles of beaches, St. Pete/Clearwater has plenty of beach bars to kick back and enjoy a drink and sunset. Here's a look at our top picks along Florida's Gulf Coast, including Shephard's Beach Resort."
-datePublished: '2016-04-02T15:55:19.422Z'
-dateModified: '2016-04-02T15:55:14.100Z'
+datePublished: '2016-04-02T15:59:15.065Z'
+dateModified: '2016-04-02T15:59:12.542Z'
 author:
   - name: Visit St. Pete Clearwater
     url: 'https://www.youtube.com/user/stpetecvb'
