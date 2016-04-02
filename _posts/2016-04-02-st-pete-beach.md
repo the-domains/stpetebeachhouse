@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'With an average of 361 days of sunshine per year, close to attractions in Orlando and even closer to the cultural and cosmopolitan attractions of St. Petersburg, Clearwater and Tampa, St. Pete Beach strikes the perfect balance!'
-datePublished: '2016-04-02T18:25:55.214Z'
-dateModified: '2016-04-02T18:25:51.027Z'
+datePublished: '2016-04-02T18:26:29.504Z'
+dateModified: '2016-04-02T18:26:24.419Z'
 title: Find your dream home on St Pete Beach ...
 author: []
 sourcePath: _posts/2016-04-02-st-pete-beach.md
