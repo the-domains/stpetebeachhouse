@@ -17,8 +17,8 @@ keywords:
   - pasadena
   - mainland
 description: 'The City of St. Pete Beach is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. With miles of pristine, white sandy beaches, year-round sunshine, an abundance of recreational opportunities, restaurants, and shopping, St.'
-datePublished: '2016-04-02T15:24:33.154Z'
-dateModified: '2016-04-02T15:24:18.544Z'
+datePublished: '2016-04-02T15:29:51.061Z'
+dateModified: '2016-04-02T15:29:45.890Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>St Pete Beach Homes for Sale</h1><p>The City of St. Pete Beach is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. With miles of pristine, white sandy beaches, year-round sunshine, an abundance of recreational opportunities, restaurants, and shopping, St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d934264ffbeb6e6a0e75725d14daea731ae5987.jpg" /></article>
+<article style=""><h1>Beautiful St Pete Beach</h1><p>The City of St. Pete Beach is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. With miles of pristine, white sandy beaches, year-round sunshine, an abundance of recreational opportunities, restaurants, and shopping, St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d934264ffbeb6e6a0e75725d14daea731ae5987.jpg" /></article>
