@@ -17,8 +17,8 @@ keywords:
   - beautiful
   - amazing
 description: "There aren't many places in the world where you can awaken with a sunrise over the water and catch the sun set over water. In St. Petersburg/Clearwater, you can do just that. Sit back and enjoy."
-datePublished: '2016-04-02T15:35:34.270Z'
-dateModified: '2016-04-02T15:35:28.062Z'
+datePublished: '2016-04-02T15:52:48.593Z'
+dateModified: '2016-04-02T15:52:40.829Z'
 author:
   - name: Visit St. Pete Clearwater
     url: 'https://www.youtube.com/user/stpetecvb'
