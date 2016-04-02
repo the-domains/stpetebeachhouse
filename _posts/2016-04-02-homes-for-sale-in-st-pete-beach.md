@@ -16,13 +16,13 @@ keywords:
   - listing
   - pasadena
   - mainland
-description: 'The City of St. Pete Beach is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. With miles of pristine, white sandy beaches, year-round sunshine, an abundance of recreational opportunities, restaurants, and shopping, St.'
-datePublished: '2016-04-02T15:29:51.061Z'
-dateModified: '2016-04-02T15:29:45.890Z'
+description: 'is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. With miles of pristine, white sandy beaches, year-round sunshine, an abundance of recreational opportunities, restaurants, and shopping, St.'
+datePublished: '2016-04-02T15:38:18.163Z'
+dateModified: '2016-04-02T15:38:07.985Z'
 author: []
 related: []
 app_links: []
-title: Homes for Sale in St Pete Beach
+title: The City of St. Pete Beach
 sourcePath: _posts/2016-04-02-homes-for-sale-in-st-pete-beach.md
 published: true
 authors: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Beautiful St Pete Beach</h1><p>The City of St. Pete Beach is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. With miles of pristine, white sandy beaches, year-round sunshine, an abundance of recreational opportunities, restaurants, and shopping, St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d934264ffbeb6e6a0e75725d14daea731ae5987.jpg" /></article>
+<article style=""><h1>The City of St. Pete Beach</h1><p>The City of St. Pete Beach is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. With miles of pristine, white sandy beaches, year-round sunshine, an abundance of recreational opportunities, restaurants, and shopping, St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d934264ffbeb6e6a0e75725d14daea731ae5987.jpg" /></article>
