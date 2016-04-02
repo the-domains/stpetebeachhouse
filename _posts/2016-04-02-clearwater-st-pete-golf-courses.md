@@ -17,8 +17,8 @@ keywords:
   - ross
   - resort
 description: Challenging courses filled with natural beauty and wildlife lure players from all over the world. Tee off at the Best Golf Courses in Florida Famed course architect Donald Ross played here. The PGA Tour returns every year. And plenty of visitors to St.
-datePublished: '2016-04-02T16:57:46.914Z'
-dateModified: '2016-04-02T16:57:32.550Z'
+datePublished: '2016-04-02T17:03:48.492Z'
+dateModified: '2016-04-02T17:03:42.640Z'
 author: []
 related:
   - score: 0.6655030251
@@ -42,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Clearwater St Pete Golf Courses</h1><p>Challenging courses filled with natural beauty and wildlife lure players from all over the world. Tee off at the Best Golf Courses in Florida Famed course architect Donald Ross played here. The PGA Tour returns every year. And plenty of visitors to St.</p><img src="http://www.keithburt.com/media/filer_public_thumbnails/filer_public/53/e8/53e8f32c-972b-42f1-80d0-ec7b0a05b7ed/golf4.jpg__770x400_q85_crop_subsampling-2.jpg" /></article>
+<article style=""><h1>Clearwater St Pete Golf Courses</h1><p>Challenging courses filled with natural beauty and wildlife lure players from all over the world. Tee off at the Best Golf Courses in Florida Famed course architect Donald Ross played here. The PGA Tour returns every year. And plenty of visitors to St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2afd334da477891cff845285f620737e2382f2a5.jpg" /></article>
