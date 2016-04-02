@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.keithburt.com'
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-04-02T16:14:38.640Z'
-dateModified: '2016-04-02T16:14:32.215Z'
+description: 'With an average of 361 days of sunshine per year, this strip of beach is guaranteed to please. Close to attractions in Orlando and even closer to the cultural and cosmopolitan attractions of St. Petersburg, Clearwater and Tampa, St. Pete Beach strikes the perfect balance for the casual, laid-back beach bum and the active attraction seeker.'
+datePublished: '2016-04-02T18:19:59.450Z'
+dateModified: '2016-04-02T18:19:52.041Z'
 title: Looking for your dream home on St Pete Beach?
 author: []
 sourcePath: _posts/2016-04-02-st-pete-beach.md
