@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-02T15:18:42.898Z'
-dateModified: '2016-04-02T15:18:03.176Z'
+datePublished: '2016-04-02T15:39:18.571Z'
+dateModified: '2016-04-02T15:18:52.191Z'
 title: Looking for your dream home on St Pete Beach?
 author: []
 sourcePath: _posts/2016-04-02-st-pete-beach.md
