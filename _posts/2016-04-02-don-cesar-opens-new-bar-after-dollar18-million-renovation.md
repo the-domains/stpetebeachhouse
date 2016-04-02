@@ -17,8 +17,8 @@ keywords:
   - brewing
   - sunset
 description: "\"It's a brand new space,\" said Jeff Abbaticchio, director of public relations for the hotel. The Rowe Bar, named after the hotel's developer Thomas Rowe, features a variety of beverages including three variations of the traditional Julep and handcrafted cocktails."
-datePublished: '2016-04-02T17:12:28.239Z'
-dateModified: '2016-04-02T17:12:10.022Z'
+datePublished: '2016-04-02T17:12:38.032Z'
+dateModified: '2016-04-02T17:12:35.499Z'
 author: []
 related:
   - score: 0.5298694968000001
