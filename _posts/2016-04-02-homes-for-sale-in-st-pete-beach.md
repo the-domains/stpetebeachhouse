@@ -17,8 +17,8 @@ keywords:
   - pasadena
   - mainland
 description: 'is a barrier island community located just off the Pinellas County mainland of Saint Petersburg, just south of Treasure Island, and 20 miles from Clearwater Beach. With miles of pristine, white sandy beaches, year-round sunshine, an abundance of recreational opportunities, restaurants, and shopping, St.'
-datePublished: '2016-04-02T16:09:35.980Z'
-dateModified: '2016-04-02T16:09:29.670Z'
+datePublished: '2016-04-02T16:12:05.454Z'
+dateModified: '2016-04-02T16:11:52.831Z'
 author: []
 related: []
 app_links: []
